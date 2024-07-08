@@ -1,16 +1,16 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+title:              Vishwas Tanwar Portfolio
+email:              vishwastanwr@gmail.com
+description:        My professional portfolio website
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+baseurl:            ""
+url:                "https://vishwastanwar1402.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
-github_username:    StartBootstrap
+github_username:    vishwastanwar1402
 facebook_username:  StartBootstrap
 instagram_username:  
-linkedin_username:
+linkedin_username: vvtanwar
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
@@ -19,6 +19,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
