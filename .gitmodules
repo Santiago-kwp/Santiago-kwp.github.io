@@ -1,0 +1,3 @@
+[submodule "veridisyndrome.github.io"]
+	path = veridisyndrome.github.io
+	url = git@github.com:veridisyndrome/veridisyndrome.github.io.git
