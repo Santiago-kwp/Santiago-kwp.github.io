@@ -4,7 +4,7 @@ name: "Ming Chong Lim"
 korean: 
 email: "mclim [at] lics.kaist.ac.kr"
 admission: 201808   # YYYYMM
-position: "PhD Student"
+position: "Alumni"
 image: '/img/people/mingchong.jpg'
 ---
 
