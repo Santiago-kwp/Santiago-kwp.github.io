@@ -4,7 +4,7 @@ name: "Jaewon Jung"
 korean: "정재원"
 email: "jwjeong [at] lics.kaist.ac.kr"
 admission: 202208   # YYYYMM
-position: "Alumni"
+position: "Post Master"
 image: "/img/people/jaewon.jpg"
 ---
 
