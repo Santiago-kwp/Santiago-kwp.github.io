@@ -10,8 +10,8 @@ image: "/img/people/petch.jpg"
 ---
 
 ## Education
-
-- **MS** in Aerospace Engineering, KAIST, ongoing
+- **PhD** in Aerospace Engineering, KAIST, Ongoing
+- **MS** in Aerospace Engineering, KAIST, 2024
 - **BEng** in Aeronautical Engineering and Commercial Pilot, KMITL, 2021
 
 ## Research Interests
