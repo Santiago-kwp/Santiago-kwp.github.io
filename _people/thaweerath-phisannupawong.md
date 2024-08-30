@@ -3,7 +3,7 @@ layout: people
 name: "Thaweerath Phisannupawong "
 korean: 
 email: "petch [at] lics.kaist.ac.kr"
-admission: 202208   # YYYYMM
+admission: 202403   # YYYYMM
 position: "PhD Student"
 # ![petch.jpg](..%2Fimg%2Fpeople%2Fpetch.jpg)
 image: "/img/people/petch.jpg"
