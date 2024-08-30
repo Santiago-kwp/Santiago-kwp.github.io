@@ -10,7 +10,7 @@ image: '/img/people/mingchong.jpg'
 
 ## Education
 
-- **PhD** in Aerospace Engineering, KAIST, ongoing
+- **PhD** in Aerospace Engineering, KAIST, 2024
 - **MS** in Aerospace Engineering, KAIST, 2018
 - **BS** NTU, 2015
 
