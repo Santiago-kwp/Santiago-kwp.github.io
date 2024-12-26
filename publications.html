@@ -8,47 +8,39 @@ background: '/img/bg-post.jpg'
 
 <div id="bibtex_display"></div>
 
-<div class="bibtex_structure">
-  <div class="sections bibtextypekey">
-    <div class="section article">
-      <h2>Journal Articles</h2>
-      <ul class="sort year" extra="DESC number">
-        <div class="templates"></div>
-      </ul>
-    </div>
-    <div class="section book">
-      <h2>Books</h2>
-      <ul class="sort year" extra="DESC number">
-        <div class="templates"></div>
-      </ul>
-    </div>
-    <div class="section inproceedings">
-      <h2>Conference and Workshop Papers</h2>
-      <ul class="sort year" extra="DESC number">
-        <div class="templates"></div>
-      </ul>
-    </div>
-    <div class="section misc|phdthesis|mastersthesis|bachelorsthesis|techreport">
-      <h2>Other Publications</h2>
-      <ul class="sort year" extra="DESC number">
-        <div class="templates"></div>
-      </ul>
-    </div>
-  </div>
-</div>
-
-
 <div class="bibtex_template">
-    <li class="mb-2">
-        <a class="url"><span class="title font-weight-bold"></span></a><br />
-        <span class="author small"></span>
-        <span class="author small"></span><br />
-        <span class="if journal">
-            <span class="journal small"></span>, 
-        </span>
-        <span class="if booktitle">
-            <span class="booktitle small"></span>,
-        </span>
-        <span class="year small"></span>
-    </li>
+  <li>
+    <span class="if author">
+      <span class="author"></span>
+    </span>
+    <span class="if year">
+      (<span class="year"></span>).&nbsp
+    </span>
+    <a class="url"><span class="title"></span></a>.
+    <span class="if journal">
+      In <span class="journal" style="font-style: italic;"></span>.
+    </span>
+    <span class="if booktitle">
+      In <span class="booktitle" style="font-style: italic;"></span>.
+    </span>
+    <span class="if mastersthesis">
+      <span class="mastersthesis" style="font-style: italic;"></span>, Masters thesis.
+    </span>
+    <span class="if school">
+      <i>Masters thesis,</i>&nbsp<span class="school"></span>.
+    </span>
+    <span class="if volume" style="font-style: italic;">
+      <span class="volume"></span>
+      <span class="if number" style="font-style: italic;">(<span class="number"></span>)</span>,&nbsp
+      <span class="if pages">
+        <span class="pages"></span>.&nbsp
+      </span>
+    </span>
+    <span class="if edition">
+      <span class="edition"></span> ed.,
+    </span>
+    <span class="if publisher">
+      <span class="publisher"></span>.
+    </span>
+  </li>
 </div>
