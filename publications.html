@@ -4,43 +4,37 @@ title: Publications
 background: '/img/bg-post.jpg'
 ---
 
-<bibtex src="/assets/bibtex/publications.bib"></bibtex>
+<div>
+  <h1>International Journals</h1>
+  <table id="pubIntlJournal" class="display"></table>
 
-<div id="bibtex_display"></div>
-
-<div class="bibtex_template">
-  <li>
-    <span class="if author">
-      <span class="author"></span>
-    </span>
-    <span class="if year">
-      (<span class="year"></span>).&nbsp
-    </span>
-    <a class="url"><span class="title"></span></a>.
-    <span class="if journal">
-      In <span class="journal" style="font-style: italic;"></span>.
-    </span>
-    <span class="if booktitle">
-      In <span class="booktitle" style="font-style: italic;"></span>.
-    </span>
-    <span class="if mastersthesis">
-      <span class="mastersthesis" style="font-style: italic;"></span>, Masters thesis.
-    </span>
-    <span class="if school">
-      <i>Masters thesis,</i>&nbsp<span class="school"></span>.
-    </span>
-    <span class="if volume" style="font-style: italic;">
-      <span class="volume"></span>
-      <span class="if number" style="font-style: italic;">(<span class="number"></span>)</span>,&nbsp
-      <span class="if pages">
-        <span class="pages"></span>.&nbsp
-      </span>
-    </span>
-    <span class="if edition">
-      <span class="edition"></span> ed.,
-    </span>
-    <span class="if publisher">
-      <span class="publisher"></span>.
-    </span>
-  </li>
 </div>
+
+<div>
+  <h1>International Conferences</h1>
+  <table id="pubIntlConf" class="display"></table>
+
+</div>
+
+<div>
+  <h1>Domestic Journals</h1>
+  <table id="pubDomJournal" class="display"></table>
+
+</div>
+
+<div>
+  <h1>Domestic Conferences</h1>
+  <table id="pubDomConf" class="display"></table>
+
+</div>
+
+
+
+
+<script src="{{"/assets/bib-list-min.js" | relative_url }}"></script>
+<script lang="javascript">
+  bibtexify("/assets/bibtex/intl-journal.bib", "pubIntlJournal");
+  bibtexify("/assets/bibtex/intl-conf.bib", "pubIntlConf");
+  bibtexify("/assets/bibtex/dom-conf.bib", "pubDomConf");
+  bibtexify("/assets/bibtex/dom-journal.bib", "pubDomJournal");
+</script>
