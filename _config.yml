@@ -31,6 +31,6 @@ collections:
   alumni:
     output: true
     permalink: /:collection/:path/
-  projects:
+  research:
     output: true
     permalink: /:collection/:path/
