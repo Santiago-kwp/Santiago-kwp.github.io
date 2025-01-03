@@ -13,7 +13,7 @@ background: '/img/lics_homecoming.jpeg'
     <h2 class="mb-5">Professor</h2>
     {% assign people = site.people | where: "position", "Professor" %}
     {% for person in people %}
-    <div class="row mb-5 mx-2">
+    <div class="row mb-2 mb-md-5 mx-2">
         <div class="col-md-2">
             <div class="d-none d-md-block">
                 <img class="img-fluid rounded mb-3 mb-md-0" src="{{ person.image | prepend: site.baseurl | replace: '//', '/' }}", alt="">
@@ -22,7 +22,7 @@ background: '/img/lics_homecoming.jpeg'
         </div>
         <div class="col-md-10">
             <a href="{{ person.url | prepend: site.baseurl | replace: '//', '/' }}">
-                <h3>{{ person.name }} {% if person.korean %}<span class="text-muted">{{ person.korean }}</span> {% endif %}</h3>
+                <h5>{{ person.name }} {% if person.korean %}<span class="text-muted">{{ person.korean }}</span> {% endif %}</h3>
             </a>
 
 
@@ -33,7 +33,7 @@ background: '/img/lics_homecoming.jpeg'
     {% assign people = site.people | where: "position", "PhD Student" | sort: 'admission' %}
     <h2 class="mb-5">PhD Students <span>({{ people | size }})</span></h2>
     {% for person in people %}
-    <div class="row mb-5 mx-2">
+    <div class="row mb-2 mb-md-5 mx-2">
         <div class="col-md-2">
             <div class="d-none d-md-block">
                 <img class="img-fluid rounded mb-3 mb-md-0" src="{{ person.image | prepend: site.baseurl | replace: '//', '/' }}", alt="">
@@ -42,7 +42,7 @@ background: '/img/lics_homecoming.jpeg'
         </div>
         <div class="col-md-10">
             <a href="{{ person.url | prepend: site.baseurl | replace: '//', '/' }}">
-                <h3>{{ person.name }} {% if person.korean %}<span class="text-muted">{{ person.korean }}</span> {% endif %}</h3>
+                <h5>{{ person.name }} {% if person.korean %}<span class="text-muted">{{ person.korean }}</span> {% endif %}</h3>
             </a>
 
             <p class="mt-1">{{ person.position }}</p>
@@ -53,7 +53,7 @@ background: '/img/lics_homecoming.jpeg'
     {% assign people = site.people | where: "position", "MS Student" | sort: 'admission' %}
     <h2 class="mb-5">MS Students <span>({{ people | size }})</span></h2>
     {% for person in people %}
-    <div class="row mb-5 mx-2">
+    <div class="row mb-2 mb-md-5 mx-2">
         <div class="col-md-2">
             <div class="d-none d-md-block">
                 <img class="img-fluid rounded mb-3 mb-md-0" src="{{ person.image | prepend: site.baseurl | replace: '//', '/' }}", alt="">
@@ -62,7 +62,7 @@ background: '/img/lics_homecoming.jpeg'
         </div>
         <div class="col-md-10">
             <a href="{{ person.url | prepend: site.baseurl | replace: '//', '/' }}">
-                <h3>{{ person.name }} {% if person.korean %}<span class="text-muted">{{ person.korean }}</span> {% endif %}</h3>
+                <h5>{{ person.name }} {% if person.korean %}<span class="text-muted">{{ person.korean }}</span> {% endif %}</h3>
             </a>
 
             <p class="mt-1">{{ person.position }}</p>
@@ -73,7 +73,7 @@ background: '/img/lics_homecoming.jpeg'
     {% assign people = site.people | where: "position", "PhD Student (part-time)" | sort: 'admission' %}
     <h2 class="mb-5">Part-time Students <span>({{ people | size }})</span></h2>
     {% for person in people %}
-    <div class="row mb-5 mx-2">
+    <div class="row mb-2 mb-md-5 mx-2">
         <div class="col-md-2">
             <div class="d-none d-md-block">
                 <img class="img-fluid rounded mb-3 mb-md-0" src="{{ person.image | prepend: site.baseurl | replace: '//', '/' }}", alt="">
@@ -82,7 +82,7 @@ background: '/img/lics_homecoming.jpeg'
         </div>
         <div class="col-md-10">
             <a href="{{ person.url | prepend: site.baseurl | replace: '//', '/' }}">
-                <h3>{{ person.name }} {% if person.korean %}<span class="text-muted">{{ person.korean }}</span> {% endif %}</h3>
+                <h5>{{ person.name }} {% if person.korean %}<span class="text-muted">{{ person.korean }}</span> {% endif %}</h3>
             </a>
 
             <p class="mt-1">{{ person.position }}</p>
@@ -93,7 +93,7 @@ background: '/img/lics_homecoming.jpeg'
     {% assign people = site.people | where: "position", "Post Master" | sort: 'admission' %}
     <h2 class="mb-5">Post Master <span>({{ people | size }})</span></h2>
     {% for person in people %}
-    <div class="row mb-5 mx-2">
+    <div class="row mb-2 mb-md-5 mx-2">
         <div class="col-md-2">
             <div class="d-none d-md-block">
                 <img class="img-fluid rounded mb-3 mb-md-0" src="{{ person.image | prepend: site.baseurl | replace: '//', '/' }}", alt="">
@@ -102,7 +102,7 @@ background: '/img/lics_homecoming.jpeg'
         </div>
         <div class="col-md-10">
             <a href="{{ person.url | prepend: site.baseurl | replace: '//', '/' }}">
-                <h3>{{ person.name }} {% if person.korean %}<span class="text-muted">{{ person.korean }}</span> {% endif %}</h3>
+                <h5>{{ person.name }} {% if person.korean %}<span class="text-muted">{{ person.korean }}</span> {% endif %}</h3>
             </a>
 
             <p class="mt-1">{{ person.position }}</p>
@@ -113,7 +113,7 @@ background: '/img/lics_homecoming.jpeg'
     {% assign people = site.people | where: "position", "Post Doctor" | sort: 'admission' %}
     <h2 class="mb-5">Post Doctor <span>({{ people | size }})</span></h2>
     {% for person in people %}
-    <div class="row mb-5 mx-2">
+    <div class="row mb-2 mb-md-5 mx-2">
         <div class="col-md-2">
             <div class="d-none d-md-block">
                 <img class="img-fluid rounded mb-3 mb-md-0" src="{{ person.image | prepend: site.baseurl | replace: '//', '/' }}", alt="">
@@ -122,7 +122,7 @@ background: '/img/lics_homecoming.jpeg'
         </div>
         <div class="col-md-10">
             <a href="{{ person.url | prepend: site.baseurl | replace: '//', '/' }}">
-                <h3>{{ person.name }} {% if person.korean %}<span class="text-muted">{{ person.korean }}</span> {% endif %}</h3>
+                <h5>{{ person.name }} {% if person.korean %}<span class="text-muted">{{ person.korean }}</span> {% endif %}</h3>
             </a>
 
             <p class="mt-1">{{ person.position }}</p>
