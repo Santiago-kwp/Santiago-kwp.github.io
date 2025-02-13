@@ -3,7 +3,7 @@ layout: people
 name: "Minchae Kim"
 korean: "김민채"
 email: "mckim [at] lics.kaist.ac.kr"
-admission: 202302   # YYYYMM
+admission: 202502   # YYYYMM
 position: "PhD Student"
 image: "/img/people/minchaekim.jpeg"
 ---
