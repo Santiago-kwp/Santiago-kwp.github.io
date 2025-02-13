@@ -4,7 +4,7 @@ name: "Minchae Kim"
 korean: "김민채"
 email: "mckim [at] lics.kaist.ac.kr"
 admission: 202302   # YYYYMM
-position: "MS Student"
+position: "PhD Student"
 image: "/img/people/minchaekim.jpeg"
 ---
 
