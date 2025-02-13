@@ -5,12 +5,13 @@ korean: "김민채"
 email: "mckim [at] lics.kaist.ac.kr"
 admission: 202302   # YYYYMM
 position: "MS Student"
-image: "/img/people/minchae.jpg"
+image: "/img/people/minchaekim.jpeg"
 ---
 
 ## Education
 
-- **MS** in Aerospace Engineering, KAIST, ongoing
+- **Ph.D** in in Aerospace Engineering, KAIST, ongoing
+- **MS** in Space Exploration Engineering Program, KAIST, 2025
 - **BS** in Aerospace Engineering, Inha University, 2023
 
 ## Research Interests
