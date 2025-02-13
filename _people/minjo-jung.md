@@ -3,7 +3,7 @@ layout: people
 name: "Minjo Jung"
 korean: "정민조"
 email: "mjjung [at] lics.kaist.ac.kr"
-admission: 202302   # YYYYMM
+admission: 202502   # YYYYMM
 position: "Post Master"
 image: "/img/people/minjo.jpg"
 ---
