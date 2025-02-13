@@ -10,7 +10,7 @@ image: "/img/people/minchaekim.jpeg"
 
 ## Education
 
-- **Ph.D** in in Aerospace Engineering, KAIST, ongoing
+- **PhD** in in Aerospace Engineering, KAIST, ongoing
 - **MS** in Space Exploration Engineering Program, KAIST, 2025
 - **BS** in Aerospace Engineering, Inha University, 2023
 
