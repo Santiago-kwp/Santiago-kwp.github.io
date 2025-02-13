@@ -3,7 +3,7 @@ layout: people
 name: "Heeyeon Kim"
 korean: "김희연"
 email: "hykim00 [at] lics.kaist.ac.kr"
-admission: 202302   # YYYYMM
+admission: 202502   # YYYYMM
 position: "PhD Student"
 image: "/img/people/heeyeon.jpeg"
 ---
