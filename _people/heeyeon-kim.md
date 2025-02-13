@@ -10,7 +10,7 @@ image: "/img/people/heeyeon.jpeg"
 
 ## Education
 
-- **Ph.D** in Aerospace Engineering, KAIST, ongoing
+- **PhD** in Aerospace Engineering, KAIST, ongoing
 - **MS** in Aerospace Engineering, KAIST, 2025
 - **BS** in Mechanical Engineering, KAIST, 2023
 
