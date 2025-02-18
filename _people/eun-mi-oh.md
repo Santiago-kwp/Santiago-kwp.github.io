@@ -4,7 +4,7 @@ name: "Eun-Mi Oh"
 korean: "오은미"
 email: "emoh [at] lics.kaist.ac.kr"
 admission: 202002
-position: "PhD Student (part-time)"
+position: "Alumni"
 # ![changkyo.png](..%2Fimg%2Fpeople%2Fchangkyo.png)
 image: "/img/people/오은미.jpg"
 ---
