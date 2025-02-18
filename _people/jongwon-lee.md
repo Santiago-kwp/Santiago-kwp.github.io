@@ -4,7 +4,7 @@ name: "Jongwon Lee"
 korean: "이종원"
 email: "jwlee [at] lics.kaist.ac.kr"
 admission: 202308   # YYYYMM
-position: "MS Student"
+position: "Alumni"
 image: 
 ---
 
