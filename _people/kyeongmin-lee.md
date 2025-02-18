@@ -5,7 +5,7 @@ korean: "이경민"
 email: "rudals0n [at] kaist.ac.kr"
 admission: 202503   # YYYYMM
 position: "MS Student"
-image: 
+image: "/img/people/kyeongmin.png"
 ---
 
 ## Education
