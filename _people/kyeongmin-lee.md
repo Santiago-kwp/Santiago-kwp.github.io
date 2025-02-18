@@ -12,7 +12,7 @@ image: "/img/people/kyeongmin.jpeg"
 
 - **MS** in Aerospace Engineering, KAIST, ongoing
 - **BS** in Computer Science and Engineering, POSTECH, 2024
-- 
+  
 ## Research Interests
 
 - Machine Learning
