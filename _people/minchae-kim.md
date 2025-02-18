@@ -19,3 +19,4 @@ image: "/img/people/minchaekim.jpeg"
 - Non-cooperative Spacecraft
 - Decision-making
 - Spacecraft Autonomous Control
+- Astrodynamics
