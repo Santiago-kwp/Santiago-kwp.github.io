@@ -4,7 +4,7 @@ name: "Dong Hwan Kim"
 korean: "김동환"
 email: "dhkim [at] lics.kaist.ac.kr"
 admission: 202502
-position: "PhD Student"
+position: "PhD Candidate"
 image: "/img/people/donghwan.png"
 ---
 
