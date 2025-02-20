@@ -4,7 +4,7 @@ name: "Heeyeon Kim"
 korean: "김희연"
 email: "hykim00 [at] lics.kaist.ac.kr"
 admission: 202502   # YYYYMM
-position: "PhD Student"
+position: "PhD Candidate"
 image: "/img/people/heeyeon.jpeg"
 ---
 
