@@ -10,7 +10,7 @@ image: "/img/people/jaewon.jpg"
 
 ## Education
 
-- **MS** in Aerospace Engineering, KAIST, ongoing
+- **MS** in Aerospace Engineering, KAIST, 2025
 - **BS** in Mechanical Engineering, Sungkyunkwan University, 2018
 
 ## Research Interests
