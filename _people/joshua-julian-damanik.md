@@ -4,7 +4,7 @@ name: "Joshua Julian Damanik"
 korean: ""
 email: "joshuad [at] lics.kaist.ac.kr"
 admission: 202108   # YYYYMM
-position: "PhD Student"
+position: "PhD Candidate"
 image: '/img/people/joshua.jpg'
 ---
 
