@@ -4,7 +4,7 @@ name: "Thaweerath Phisannupawong "
 korean: 
 email: "petch [at] lics.kaist.ac.kr"
 admission: 202403   # YYYYMM
-position: "PhD Student"
+position: "PhD Candidate"
 # ![petch.jpg](..%2Fimg%2Fpeople%2Fpetch.jpg)
 image: "/img/people/petch.jpg"
 ---
