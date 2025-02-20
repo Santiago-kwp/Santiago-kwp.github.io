@@ -4,7 +4,7 @@ name: "Minji Hong"
 korean: "홍민지"
 email: "mjhong [at] lics.kaist.ac.kr"
 admission: 202403   # YYYYMM
-position: "PhD Student"
+position: "PhD Candidate"
 image: '/img/people/minji.png'
 ---
 
