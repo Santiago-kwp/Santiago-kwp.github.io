@@ -4,7 +4,7 @@ name: "Haneul Lee"
 korean: "이하늘"
 email: "sky.lee [at] kaist.ac.kr"
 admission: 202403
-position: "PhD Student"
+position: "PhD Candidate"
 image: "/img/people/haneul.jpeg"
 ---
 
