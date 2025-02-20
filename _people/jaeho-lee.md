@@ -4,7 +4,7 @@ name: "Jaeho Lee"
 korean: "이재호"
 email: "jhlee [at] lics.kaist.ac.kr"
 admission: 202302   # YYYYMM
-position: "PhD Student"
+position: "PhD Candidate"
 image: "/img/people/jaeho.png"
 ---
 
