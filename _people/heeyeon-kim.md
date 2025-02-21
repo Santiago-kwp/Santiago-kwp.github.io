@@ -11,7 +11,7 @@ image: "/img/people/heeyeon.jpeg"
 ## Education
 
 - **PhD** in Aerospace Engineering, KAIST, ongoing
-- **MS** in Aerospace Engineering, KAIST, 2025
+- **MS** in Kim Jaechul Graduate School of AI, KAIST, 2025
 - **BS** in Mechanical Engineering, KAIST, 2023
 
 ## Research Interests
