@@ -2,7 +2,7 @@ title:              ismael farah Blog
 email:              asmael.net.sy@gmail.com
 description:        A Ubuntu Blog
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            ""
 url:                "https://ismael.github.io"
 
 # Social Profiles
