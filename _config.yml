@@ -321,7 +321,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      show_date: true
+      date_format: "%Y-%m-%d %H"
+      #read_time: true
       comments: # true
       share: true
       related: true
@@ -334,7 +336,7 @@ defaults:
       layout: single
       author_profile: true
       show_date: true
-      date_format: "%Y-%m-%d"
+      date_format: "%Y-%m-%d %H"
       share: true
       comments: true
       sidebar:
