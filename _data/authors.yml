@@ -1,7 +1,7 @@
 # 작성자1
 kiwoong-park:
   name : "박기웅"
-  avatar : "/assets/images/Java-Developer-Wide.jpg
+  avatar : "/assets/images/Java-Developer-Wide.jpg"
   links:
     - label: "Github"
       icon: "fab fa-fw fa-github"
