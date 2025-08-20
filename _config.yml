@@ -325,3 +325,24 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _dailyScrumProject
+  - scope:
+      path: ""
+      type: dailyScrumProject
+    values:
+      layout: single
+      author_profile: true
+      show_date: true
+      date_format: "%Y-%m-%d"
+      share: true
+      comments: true
+      sidebar:
+        nav: "dailyScrumProject"
+
+
+# Collections configuration
+collections:
+  dailyScrumProject:
+    output: true
+    permalink: /:collection/:name/
