@@ -3,7 +3,7 @@ kiwoong-park:
   name : "박기웅"
   avatar : "/assets/images/Java-Developer-Wide.jpg"
   links:
-    - label: "Github"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Santiago-kwp"
 
