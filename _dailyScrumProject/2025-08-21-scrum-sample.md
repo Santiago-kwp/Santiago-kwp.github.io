@@ -1,26 +1,22 @@
 ---
 title: "Java & 운영체제 학습 스크럼(샘플)"
 excerpt: "스크럼 샘플입니다."
-date: 2025-08-21 10
+date: 2025-08-21
 tags: [java, operating-system, sprint, team-learning]
 author: kiwoong-park
 author_profile: true
 layout: single
 ---
 
-## 📋 Sprint Goals
+## 📋 스크럼  목표
 
 ### 🎯 주요 목표
 - **Java 객체지향 프로그래밍** 핵심 개념 마스터
 - **운영체제 프로세스 관리** 이해 및 실습
-- **팀 코드 리뷰** 문화 정착
-- **기술 블로그 포스팅** 1인 1포스트 작성
 
 ### 🔥 성공 지표
 - [ ] 각자 Java 미니 프로젝트 1개 완성
 - [ ] 운영체제 이론 퀴즈 80점 이상
-- [ ] 팀원 간 코드 리뷰 5회 이상
-- [ ] 학습 내용 블로그 포스팅 4개 작성
 
 ---
 
@@ -149,9 +145,9 @@ kill -9 [PID]
 
 ---
 
-## 📈 Daily Standup 현황
+## 📈 Daily Scrum 현황
 
-### 🗓️ 8월 21일 (수요일) 스탠드업
+### 🗓️ 8월 21일 (수요일) Scrum
 
 #### 어제 한 일 (Yesterday)
 - **김개발**: Java 상속 개념 학습, Animal-Dog 클래스 실습 완료
