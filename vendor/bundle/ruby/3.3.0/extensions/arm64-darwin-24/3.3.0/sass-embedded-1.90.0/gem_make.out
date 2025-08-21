@@ -1,0 +1,5 @@
+current directory: /Users/hawon/Documents/study/santiago-kwp.github.io/vendor/bundle/ruby/3.3.0/gems/sass-embedded-1.90.0/ext/sass
+/Users/hawon/.rbenv/versions/3.3.4/bin/ruby -rrubygems /Users/hawon/Documents/study/santiago-kwp.github.io/vendor/bundle/ruby/3.3.0/gems/rake-13.3.0/exe/rake RUBYARCHDIR\=/Users/hawon/Documents/study/santiago-kwp.github.io/vendor/bundle/ruby/3.3.0/extensions/arm64-darwin-24/3.3.0/sass-embedded-1.90.0 RUBYLIBDIR\=/Users/hawon/Documents/study/santiago-kwp.github.io/vendor/bundle/ruby/3.3.0/extensions/arm64-darwin-24/3.3.0/sass-embedded-1.90.0
+gem install --force --install-dir /Users/hawon/Documents/study/santiago-kwp.github.io/vendor/bundle/ruby/3.3.0/gems/sass-embedded-1.90.0/ext/sass/ruby --no-document --ignore-dependencies --platform arm64-darwin --version 1.90.0 sass-embedded
+mv /Users/hawon/Documents/study/santiago-kwp.github.io/vendor/bundle/ruby/3.3.0/gems/sass-embedded-1.90.0/ext/sass/ruby/gems/sass-embedded-1.90.0-arm64-darwin/ext/sass/dart-sass dart-sass
+rm -rf /Users/hawon/Documents/study/santiago-kwp.github.io/vendor/bundle/ruby/3.3.0/gems/sass-embedded-1.90.0/ext/sass/ruby
