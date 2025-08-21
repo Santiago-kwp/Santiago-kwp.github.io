@@ -15,3 +15,12 @@ hyeonbin-lee:
    - label: "GitHub"
      icon: "fab fa-fw fa-github"
      url: "https://github.com/Hyeonbin2379"
+
+# 작성자3
+jaeyun-kim:
+  name : "김재윤"
+  avatar: "/assets/images/Java-Developer-Wide.jpg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jaeyunew"
