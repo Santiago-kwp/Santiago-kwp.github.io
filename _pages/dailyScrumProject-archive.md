@@ -6,8 +6,8 @@ collection: dailyScrumProject
 entries_layout: list
 author_profile: true
 classes: wide
-# sort_by: date
-# sort_order: reverse
+sort_by: date
+sort_order: reverse
 header:
     overlay_color: "#5e616c"
     overlay_imatge: /assets/images/projects-banner.jpg
