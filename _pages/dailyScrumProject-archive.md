@@ -1,6 +1,6 @@
 ---
-title: "daily 스크럼 프로젝트"
-permalink: /dailyscrumproject/
+title: "Daily 스크럼 프로젝트"
+permalink: /dailyScrumProject/
 layout: collection
 collection: dailyScrumProject
 entries_layout: list
@@ -10,7 +10,7 @@ sort_by: date
 sort_order: reverse
 header:
     overlay_color: "#5e616c"
-    overlay_imatge: /assets/images/projects-banner.jpg
+    overlay_image: /assets/images/banner_sample_java.png
 
 ---
 
