@@ -24,3 +24,13 @@ hawon-ko:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nowah00"
+      
+# 작성자4
+jaeyun-kim:
+  name : "김재윤"
+  avatar: "/assets/images/Java-Developer-Wide.jpg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jaeyunew"
+
